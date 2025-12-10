@@ -1,0 +1,11 @@
+version: "2"
+
+linters:
+  disable:
+    - funlen
+    - godox
+    - gosec
+    - mnd
+    - varnamelen
+    - wsl
+
